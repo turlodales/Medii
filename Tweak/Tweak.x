@@ -11,7 +11,7 @@
 - (BOOL)pauseForEventSource:(long long)arg1;
 @end
 
-%group MusicBeQuiet
+%group Medii
 
 %hook SBVolumeControl
 
@@ -39,6 +39,6 @@
 
 %ctor {
 
-	%init(MusicBeQuiet);
+	%init(Medii);
 
 }
