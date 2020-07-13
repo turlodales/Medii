@@ -1,5 +1,5 @@
-/Users/alexa/Documents/GitHub/Medii/.theos/obj/debug/arm64/Tweak.x.ef994cb3.o: \
-  /Users/alexa/Documents/GitHub/Medii/.theos/obj/debug/arm64/Tweak.x.m \
+/Users/alexa/Documents/GitHub/Medii/.theos/obj/arm64/Tweak.x.6ddddc97.o: \
+  /Users/alexa/Documents/GitHub/Medii/.theos/obj/arm64/Tweak.x.m \
   /Users/alexa/theos/Prefix.pch \
   /Users/alexa/theos/vendor/include/_Prefix/BackwardsCompat.h \
   /Users/alexa/theos/vendor/include/_Prefix/IOSMacros.h \

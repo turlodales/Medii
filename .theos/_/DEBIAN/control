@@ -1,10 +1,14 @@
 Package: love.litten.medii
-Name: Medii
+Name: Medii 🎼
 Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: me.lia.musicbequiet
 Architecture: iphoneos-arm
 Description: Pause Music At 0% Volume, Neat When Wearing Headphones
 Maintainer: Litten <hiya@litten.love>
 Author: Litten <hiya@litten.love>
 Section: Tweaks
-Version: 1.0-1+debug
+Depiction: https://repo.litten.love/depictions/mdi/index.html
+SileoDepiction: https://repo.litten.love/depictions/mdi/mdi.json
+Icon: https://repo.litten.love/depictions/mdi/assets/icon.png
+Version: 1.0
 Installed-Size: 136
