@@ -4,7 +4,7 @@
 - (float)_effectiveVolume;
 @end
 
-@interface SBMediaPlayer : NSObject
+@interface SBMediaController : NSObject
 + (id)sharedInstance;
 - (BOOL)isPaused;
 - (BOOL)playForEventSource:(long long)arg1 ;
