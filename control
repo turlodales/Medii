@@ -4,7 +4,7 @@ Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: me.lia.musicbequiet
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Pause Music At 0% Volume, Neat When Wearing Headphones
+Description: Pause music at 0% volume, neat when wearing headphones
 Maintainer: Litten <hiya@litten.love>
 Author: Litten <hiya@litten.love>
 Section: Tweaks
